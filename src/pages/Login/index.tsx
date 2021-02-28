@@ -1,8 +1,8 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import sad from "../../assets/2sow.png";
 import { MainDiv, Formulary, ButtonSend } from "./styles";
 import { useHistory } from "react-router-dom";
-import { setLocalStorage } from "../../utils";
+import { isAuth, setLocalStorage } from "../../utils";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -10,6 +10,13 @@ const Login: React.FC = () => {
   const history = useHistory();
   const [email, setEmail] = useState<string>("");
   const [password, setPassword] = useState<string>("");
+
+  const redirect = () => {
+    return isAuth() ? history.push("/users") : null;
+  };
+  useEffect(() => {
+    redirect();
+  }, []);
 
   const handleFormulary = (e: React.FormEvent): void => {
     e.preventDefault();

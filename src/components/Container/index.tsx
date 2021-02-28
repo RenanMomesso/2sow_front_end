@@ -12,7 +12,7 @@ const Container: React.FC = (props) => {
           <Link to="/users">ListDev's</Link>
           <Link to="/formulary">Criar novo</Link>
           <span
-            style={{ cursor: 'pointer' }}
+            style={{ cursor: "pointer" }}
             onClick={() => {
               history.push("/");
               localStorage.removeItem("email");

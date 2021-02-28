@@ -66,11 +66,11 @@
         "cpf": "42132121512",
         "email": "jade@gmail.com",
         "endereco": {
-          "cep": "08420-080",
-          "rua": "Rua Erli",
-          "numero": "10",
-          "bairro": "Jardim Helena",
-          "cidade": "São Paulo"
+          "cep": "13420-050",
+          "rua": "Rua Furio Franceschini",
+          "numero": "102",
+          "bairro": "Parque Santa Cecília",
+          "cidade": "Piracicaba"
         }
       },
       "id": 5
