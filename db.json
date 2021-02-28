@@ -1,0 +1,124 @@
+{
+  "usuarios": [
+    {
+      "data": {
+        "nome": "Joao Carlos Da silva",
+        "cpf": "43412636190",
+        "email": "joaosilva@gmail.com",
+        "endereco": {
+          "cep": "13420050",
+          "rua": "Rua Furio Franceschini",
+          "numero": "1022",
+          "bairro": "Parque Santa Cecília",
+          "cidade": "Sao Paulo"
+        }
+      },
+      "id": 1
+    },
+    {
+      "data": {
+        "nome": "Carlos da silva",
+        "cpf": "42581893699",
+        "email": "carlosjoao@hotmail.com",
+        "endereco": {
+          "cep": "08420010",
+          "rua": "Rua Hilário Pires",
+          "numero": "99",
+          "bairro": "Jardim Helena",
+          "cidade": "São Paulo"
+        }
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "nome": "Renan Vechini Momesso",
+        "cpf": "4344864890",
+        "email": "renan_momesso@htomaiasads.com",
+        "endereco": {
+          "cep": "13420050",
+          "rua": "Rua Furio Franceschini",
+          "numero": "10",
+          "bairro": "Parque Santa Cecília",
+          "cidade": "Piracicaba"
+        }
+      },
+      "id": 3
+    },
+    {
+      "data": {
+        "nome": "Julyana Rodrigues",
+        "cpf": "4258839388",
+        "email": "julyana.giudice@hotmail.com",
+        "endereco": {
+          "cep": "08420-090",
+          "rua": "Rua Manuel Calhamares",
+          "numero": "10",
+          "bairro": "Jardim Helena",
+          "cidade": "São Paulo"
+        }
+      },
+      "id": 4
+    },
+    {
+      "data": {
+        "nome": "Jade Da Silva Sandy",
+        "cpf": "42132121512",
+        "email": "jade@gmail.com",
+        "endereco": {
+          "cep": "08420-080",
+          "rua": "Rua Erli",
+          "numero": "10",
+          "bairro": "Jardim Helena",
+          "cidade": "São Paulo"
+        }
+      },
+      "id": 5
+    },
+    {
+      "data": {
+        "nome": "Renan Joao De Carlos",
+        "cpf": "43448646890",
+        "email": "renan_momesso@hotmail.com",
+        "endereco": {
+          "cep": "13420050",
+          "rua": "Rua Furio Franceschini",
+          "numero": "10",
+          "bairro": "Parque Santa Cecília",
+          "cidade": "Piracicaba"
+        }
+      },
+      "id": 6
+    },
+    {
+      "data": {
+        "nome": "Renan Vechini Momesso",
+        "cpf": "41556165165",
+        "email": "renansasdasdasd@gmail.com",
+        "endereco": {
+          "cep": "08420090",
+          "rua": "Rua Manuel Calhamares",
+          "numero": "43",
+          "bairro": "Jardim Helena",
+          "cidade": "São Paulo"
+        }
+      },
+      "id": 7
+    },
+    {
+      "data": {
+        "nome": "asdhauhsduia",
+        "cpf": "42556654646",
+        "email": "renan_momesso@hotmail.com",
+        "endereco": {
+          "cep": "08420080",
+          "rua": "Rua Erli",
+          "numero": "32",
+          "bairro": "Jardim Helena",
+          "cidade": "São Paulo"
+        }
+      },
+      "id": 8
+    }
+  ]
+}
